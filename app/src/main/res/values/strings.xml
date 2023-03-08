@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">KotlinCodeLab</string>
-    <string name="roll_label">Roll</string>
+    <string name="done_label">Done</string>
 </resources>
